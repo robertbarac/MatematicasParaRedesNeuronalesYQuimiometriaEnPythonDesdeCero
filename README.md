@@ -6,3 +6,4 @@ El propósito de este repositorio es ir implementando métodos matemáticos en P
 - Regresión lineal simple
 - Regresión lineal múltiple
 
+- Boris Johnson
